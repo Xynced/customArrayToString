@@ -1,16 +1,23 @@
 {
   "name": "custom-array-to-string",
   "version": "1.0.0",
-  "description": "",
+  "description": "custom version array to string for no reason",
   "main": "customArrayToString.js",
-  "dependencies": {},
-  "devDependencies": {
-	"jest": "^27.0.6"
-  },
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alan-mun/customArrayToString.git"
+  },
+  "author": "xynced",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alan-mun/customArrayToString/issues"
+  },
+  "homepage": "https://github.com/alan-mun/customArrayToString#readme"
 }
